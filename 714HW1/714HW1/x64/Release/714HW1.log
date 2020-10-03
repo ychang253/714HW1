@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  714HW1.cpp
+c:\dan\wisconsin\2020\2020 fall\math714\hw1\714hw1\714hw1\714hw1.cpp(20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\dan\wisconsin\2020\2020 fall\math714\hw1\714hw1\714hw1\714hw1.cpp(30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Grid.cpp
+  Generating code
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  714HW1.vcxproj -> C:\Dan\Wisconsin\2020\2020 Fall\Math714\HW1\714HW1\x64\Release\714HW1.exe
